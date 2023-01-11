@@ -8,15 +8,15 @@ main {
     font-size: 22px;
 }
 
-main{
-
-    margin-left: 38%;
-    margin-right: 38%;
+.contenedor{
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-left: 22%;
+    margin-right: 22%;
     padding-top: 5%;
     padding-bottom: 5%;
     color: rgba(230, 229, 229, 0.966);
     background-color: rgb(19, 19, 19);
-    border-radius: 300% 300%;
     box-shadow: 1px 3px 24px 0px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 1px 3px 24px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 1px 3px 24px 0px rgba(0,0,0,0.75);
